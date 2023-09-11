@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://lombardobuilders.netlify.app/sitemap.xml
